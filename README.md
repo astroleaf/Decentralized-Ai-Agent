@@ -123,12 +123,7 @@ We welcome contributions! 🚀
 
 ---
 
-## 📢 Stay Connected
-
-- Twitter: [@akratos_god](https://twitter.com/akratos_god)
-- Telegram: [@akratos_god](https://t.me/akratos_god)
-
----
 
 _"Code is cheaper than talk."_ ✨
+
 
